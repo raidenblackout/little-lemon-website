@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 150" role="img" aria-labelledby="logoLightTitle">
+  <title id="logoLightTitle">Little Lemon</title>
+  <ellipse cx="60" cy="52" rx="38" ry="32" fill="#F4CE14"/>
+  <path d="M60 22c9-17 27-19 36-17-4 12-19 19-36 17z" fill="#EDEFEE"/>
+  <text x="60" y="114" text-anchor="middle" font-family="Karla, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="3" fill="#EDEFEE">LITTLE</text>
+  <text x="60" y="139" text-anchor="middle" font-family="Karla, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="3" fill="#EDEFEE">LEMON</text>
+</svg>

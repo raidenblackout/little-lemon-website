@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Little Lemon</title>
+  <g transform="translate(6 6)">
+    <ellipse cx="24" cy="27" rx="20" ry="17" fill="#F4CE14" stroke="#495E57" stroke-width="2.5"/>
+    <path d="M10 27h28M24 12v30" stroke="#495E57" stroke-width="1.5" opacity=".35"/>
+    <path d="M24 10c5-9 14-10 19-9-2 6-10 10-19 9z" fill="#495E57"/>
+  </g>
+  <text x="62" y="27" font-family="Karla, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="3" fill="#495E57">LITTLE</text>
+  <text x="62" y="50" font-family="Karla, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="3" fill="#495E57">LEMON</text>
+</svg>
